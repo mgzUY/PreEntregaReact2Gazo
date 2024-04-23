@@ -1,0 +1,28 @@
+.item-detail-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .product-detail {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .product-detail h3 {
+    margin-top: 0;
+  }
+  
+  .product-detail p {
+    margin: 5px 0;
+  }
+  
+  h2 {
+    font-weight: bold;
+    font-size: 32px;
+    color: #f58634;
+    margin-bottom: 20px;
+  }
+  
