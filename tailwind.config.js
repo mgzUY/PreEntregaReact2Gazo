@@ -7,3 +7,5 @@ export default {
   plugins: [],
 }
 
+module.exports = {
+  content: ['./src/**/*.html', './src/**/*.jsx'],};

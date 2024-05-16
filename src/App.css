@@ -102,8 +102,8 @@
 .catalog-title {
   font-weight: bold;
   font-size: 24px;
-  color: #f58634; /* Color naranja */
-  margin-bottom: 20px; /* Espacio debajo del título */
+  color: #f58634; 
+  margin-bottom: 20px; 
 }
 
 .product-list {
@@ -113,6 +113,6 @@
 }
 
 .product-card {
-  width: 300px; /* Ancho de cada tarjeta de producto */
+  width: 300px; 
   margin: 10px;
 }
